@@ -1,0 +1,1 @@
+console.log('fate-aspects | Hello World!');

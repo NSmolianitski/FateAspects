@@ -1,0 +1,28 @@
+{
+  "id": "fate-aspects",
+  "title": "Fate Aspects",
+  "version": "0.0.1",
+  "compatibility": {
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Nemirt",
+      "flags": {}
+    }
+  ],
+  "scripts": [
+    "scripts/fate-aspects.js"
+  ],
+  "styles": [
+    "styles/fate-aspects.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "url": "https://github.com/NSmolianitski/FateAspects"
+}
